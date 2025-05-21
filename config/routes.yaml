@@ -1,0 +1,6 @@
+# This file is the entry point to configure your own HTTP routes.
+# Files in the routes/ directory configure the routes for your dependencies.
+
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
